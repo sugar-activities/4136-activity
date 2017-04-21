@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Hexagon 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.hexagonActivity
+bundle_id = net.gcompris.hexagonActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
